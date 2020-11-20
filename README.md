@@ -1,14 +1,14 @@
 vi
 
 > path
-~/.vimrc
-~/.vim
+- ~/.vimrc
+- ~/.vim
 
 > install
-:PluginInstall
+- :PluginInstall
 
 > NerdTree
-\nt
+- \nt
 
 > Color
-jellybeans
+- jellybeans
