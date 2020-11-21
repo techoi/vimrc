@@ -1,11 +1,11 @@
-vi
+vim setup
 
 > path for mac
 ~/.vimrc
 ~/.vim
 
 > install
-:PluginInstall
+- :PluginInstall
 
 > NERDTree
 \nt
