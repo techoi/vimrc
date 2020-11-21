@@ -1,14 +1,21 @@
 vi
 
-> path
+> path for mac
 ~/.vimrc
 ~/.vim
 
 > install
 :PluginInstall
 
-> NerdTree
+> NERDTree
 \nt
 
 > Color
 jellybeans
+
+> Tagbar
+:Tagbar
+:bp, :bn
+
+> Git
+:Gblame, :Gdiff

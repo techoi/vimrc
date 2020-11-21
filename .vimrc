@@ -34,6 +34,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'blueyed/vim-diminactive'
+Plugin 'tasn/vim-tsx'
 
 call vundle#end()
 
@@ -122,5 +123,6 @@ let g:diminactive_enable_focus = 1
 
 syntax enable
 filetype indent on
-highlight Comment term=bold cterm=bold ctermfg=6
+highlight Comment term=bold cterm=bold ctermfg=3
+
 augroup END
